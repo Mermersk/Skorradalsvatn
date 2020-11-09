@@ -1,4 +1,4 @@
-import * as twgl from "/twgl-full.module.js"//"/twgl.js-4.16.0/dist/4.x/twgl-full.module.js"
+import * as twgl from "./twgl-full.module.js"//"/twgl.js-4.16.0/dist/4.x/twgl-full.module.js"
 
 const vertexSource = `#version 300 es
 
